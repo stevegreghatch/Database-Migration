@@ -11,7 +11,7 @@ REQUIREMENTS
 
 A.  Modify the “studentData Table” to include your personal information as the last item.
  
-B.  Create a C++ project in your integrated development environment (IDE) with the following files: degree.h, student.h and student.cpp, roster.h and roster.cpp , and main.cpp. Note: There must be a total of six source code files.
+B.  Create a C++ project in your integrated development environment (IDE) with the following files: degree.h, student.h and student.cpp, roster.h and roster.cpp, and main.cpp. Note: There must be a total of six source code files.
  
 C.  Define an enumerated data type DegreeProgram for the degree programs containing the data type values SECURITY, NETWORK, and SOFTWARE. Note: This information should be included in the degree.h file.
  
