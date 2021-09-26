@@ -1,4 +1,4 @@
-# Student-System-Migration-WGU-C867
+#WGU-C867
 Scripting and Programming - Applications - C867 - Performance Assessment
 
 SCENARIO 
