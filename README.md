@@ -1,5 +1,4 @@
 # Scripting and Programming - Applications
-WGU C867 - Performance Assessment
 
 SCENARIO 
 
